@@ -1,5 +1,3 @@
-
-
 ## Task 1: Array and LinkedList
 
 ### 1. Basic 
