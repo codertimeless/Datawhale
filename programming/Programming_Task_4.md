@@ -133,7 +133,7 @@ H(key) = a*key + b
 #define N 20      
 #define Nhash 7  
 #define N_R 200
- 
+
 typedef struct node{
     int key;
     int num;
